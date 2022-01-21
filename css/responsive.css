@@ -111,7 +111,6 @@
 	}
 
 	.how-work-img img {
-		max-width: 100%;
 	}
 
 	/* page 3 */
@@ -232,7 +231,7 @@
 	}
 
 	.how-work-img img {
-		width: 100%;
+
 	}
 
 	.how-work-text {
@@ -485,7 +484,9 @@
 
 /* small mobile (XS) :320px. */
 @media (max-width: 767px) {
-
+.logo img{
+	height: 60px !important;
+}
 .slider-content-space {
 	padding-top: 170px;
 }
@@ -641,7 +642,7 @@
 }
 
 	.how-work-img img {
-		width: 100%;
+
 	}
 
 

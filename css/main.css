@@ -28,7 +28,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,500,700&display=swap');
 
 body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Outfit', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	color: #444;
@@ -1803,7 +1803,23 @@ ul.price-nav li:nth-child(2) a {
 	line-height: 22px;
 	color: #ffffff;
 }
-
+.g-co{
+	color: #009696 !important;
+}
+.sticky img{
+	transition-duration: 0.5s;
+	height: 60px !important;
+}
+.stylish-color-dark{
+	background: #ffffff;
+}
+.page-footer a{
+	color: rgba(0, 0, 0, 0.47);
+	font-weight: bold;
+}
+.page-footer p{
+	color: rgba(0, 0, 0, 0.47);
+}
 @media (max-width: 767.98px) {
 	.timeline::after {
 		left: 90px;
