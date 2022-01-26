@@ -484,6 +484,10 @@
 
 /* small mobile (XS) :320px. */
 @media (max-width: 767px) {
+	.page-footer img{
+		width: 200px !important;
+		margin-bottom: 50px;
+	}
 .logo img{
 	height: 60px !important;
 }
