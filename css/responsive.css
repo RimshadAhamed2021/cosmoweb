@@ -322,6 +322,7 @@
 	.slider-content-space {
 		padding-top: 200px;
 	}
+
 .work-area-5{
 	padding-top: 100px;
 }
@@ -488,8 +489,17 @@
 		width: 200px !important;
 		margin-bottom: 50px;
 	}
+	.pb-100{
+		padding-bottom: 20px;
+	}
+	.pt-150{
+		padding-top: 20px;
+	}
+	.pt-100{
+		padding-top: 60px;
+	}
 .logo img{
-	height: 60px !important;
+	height: 44px !important;
 }
 .slider-content-space {
 	padding-top: 170px;
